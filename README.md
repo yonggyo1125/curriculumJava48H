@@ -1,4 +1,5 @@
 # JAVA1 과정(24시간)
+* [수업자료 공유폴더](https://drive.google.com/drive/folders/1vsHsmWJoW_agBsSScJMyK261OCGc-146?usp=drive_link)
 
 * 1일차(3h) - 자바 (JAVA)의 시작 / 변수와 상수 (VARIABLE)
 	- 변수와 상수
